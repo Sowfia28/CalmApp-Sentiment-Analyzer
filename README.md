@@ -18,7 +18,7 @@
 
 ## 📌 Project Summary
 
-This project was developed as part of the *Applied AI for Managers* course at the University at Buffalo. It uses state-of-the-art NLP models to classify and summarize user reviews from the Calm meditation app, enabling actionable business insights.
+This project was developed as part of the *Applied AI for Managers* course at the University at Buffalo by Sowfia Syed Abuthaheer, Keerthi Nagalaapati, Thanis Annal Jenifer Kennedy. It uses state-of-the-art NLP models to classify and summarize user reviews from the Calm meditation app, enabling actionable business insights.
 
 **Key Features:**
 - Sentiment classification (Positive/Negative) using BERT
@@ -29,7 +29,7 @@ This project was developed as part of the *Applied AI for Managers* course at th
 
 ---
 
-## App
+## 🖥️ App screenshot
 ![image](https://github.com/user-attachments/assets/f86a8a82-b2e3-47b8-a5fd-4a3d80ee8045)
 
 ---
